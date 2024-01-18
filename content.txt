@@ -1,0 +1,126 @@
+
+Any Problem
+with 
+Class not visible (LMS)
+Timings
+holidays
+
+
+9:30 AM to 1 PM IST
+first 10 min : questions
+
+TOPIC + Questions + Exercises...
+
+last 10-15 min : questions
+
+
+Nitish Vig
+Data Scientist in Us Based Company located in gurgaon, Delhi
+BE
+ME ECE : GATE
+
+
+
+Mentor
+Python and Data Science (50 hours)
+
+
+
+Skills
+Python and Data Science
+Machine Learning, deep learning, NLP, 
+sql server
+tableau power BI
+Open AI - ChatGPT
+R
+
+
+
+Data Analyst
+Business Analytics
+DOmain Analytics
+Eg : HR Analytics, Finiance Analytics, ....
+
+Analytics : 
+1. Excel
+2. Programming Language --> Python
+3. Database --> SQL
+4. Reporting --> Tableau, Power BI, Qlik, Looker ...
+5. Analysis using Python ()
+6. Machine Learning (5%) Stats --> Error, Performance, mean, deviattions....
+
+
+
+
+Machine Learning Engineers
+7. Stats + Maths
+8. ML Models for preditions
+9. NLP
+
+
+
+
+Deep Learning Engineers (Data Scientist)
+Choose your NICHE...
+10. 
+text
+image 
+videos
+speech - Alexa, siri, google
+signals - telecom,, electrnics...
+
+
+
+AI Engineers
+11.
+Build the product with data
+
+
+Open AI Engineers
+
+
+
+CLOUD ...
+
+
+Big Data ...
+
+
+
+
+Software : 
+Visual Studio ---> Jupyter Notebook (.ipynb)  and Python files (.py)
+Anaconda  --> Jupyter Notebook (.ipynb)  and Python files (.py)
+
+Jupyter Notebook (.ipynb)  
+- Analysis 
+- Build the code
+- NOT EXECUTABLE
+
+Python files (.py)
+- Analysis 
+- Build the code
+- EXECUTABLE
+
+
+
+Refer to Anacponda Install pdf file
+2. Anaconda Distribution Name ... (NO Individual Edition)
+https://www.anaconda.com/download
+
+9. Add to PATH --> Tick this CHeck BOX
+this will allow to use pip and install the packages
+
+PYPI -> Python Package Installer (Where you can upload or download the package)
+PIP -> Python Installer Package (Helps to install, uninstall, upgrade the package on local system)
+PVM -> Python Virtual Machine ( Understanmd the Code )
+Interpreter
+
+Source Code -> Machine COde
+
+
+
+
+
+
+
